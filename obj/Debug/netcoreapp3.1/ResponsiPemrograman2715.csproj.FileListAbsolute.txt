@@ -1,0 +1,13 @@
+D:\Tugas\Semester 2\Pemrograman\ResponsiPemrograman2715\ResponsiPemrograman2715\obj\Debug\netcoreapp3.1\ResponsiPemrograman2715.csprojAssemblyReference.cache
+D:\Tugas\Semester 2\Pemrograman\ResponsiPemrograman2715\ResponsiPemrograman2715\obj\Debug\netcoreapp3.1\ResponsiPemrograman2715.csproj.CoreCompileInputs.cache
+D:\Tugas\Semester 2\Pemrograman\ResponsiPemrograman2715\ResponsiPemrograman2715\obj\Debug\netcoreapp3.1\ResponsiPemrograman2715.AssemblyInfoInputs.cache
+D:\Tugas\Semester 2\Pemrograman\ResponsiPemrograman2715\ResponsiPemrograman2715\obj\Debug\netcoreapp3.1\ResponsiPemrograman2715.AssemblyInfo.cs
+D:\Tugas\Semester 2\Pemrograman\ResponsiPemrograman2715\ResponsiPemrograman2715\bin\Debug\netcoreapp3.1\ResponsiPemrograman2715.exe
+D:\Tugas\Semester 2\Pemrograman\ResponsiPemrograman2715\ResponsiPemrograman2715\bin\Debug\netcoreapp3.1\ResponsiPemrograman2715.deps.json
+D:\Tugas\Semester 2\Pemrograman\ResponsiPemrograman2715\ResponsiPemrograman2715\bin\Debug\netcoreapp3.1\ResponsiPemrograman2715.runtimeconfig.json
+D:\Tugas\Semester 2\Pemrograman\ResponsiPemrograman2715\ResponsiPemrograman2715\bin\Debug\netcoreapp3.1\ResponsiPemrograman2715.runtimeconfig.dev.json
+D:\Tugas\Semester 2\Pemrograman\ResponsiPemrograman2715\ResponsiPemrograman2715\bin\Debug\netcoreapp3.1\ResponsiPemrograman2715.dll
+D:\Tugas\Semester 2\Pemrograman\ResponsiPemrograman2715\ResponsiPemrograman2715\bin\Debug\netcoreapp3.1\ResponsiPemrograman2715.pdb
+D:\Tugas\Semester 2\Pemrograman\ResponsiPemrograman2715\ResponsiPemrograman2715\obj\Debug\netcoreapp3.1\ResponsiPemrograman2715.dll
+D:\Tugas\Semester 2\Pemrograman\ResponsiPemrograman2715\ResponsiPemrograman2715\obj\Debug\netcoreapp3.1\ResponsiPemrograman2715.pdb
+D:\Tugas\Semester 2\Pemrograman\ResponsiPemrograman2715\ResponsiPemrograman2715\obj\Debug\netcoreapp3.1\ResponsiPemrograman2715.genruntimeconfig.cache
